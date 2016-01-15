@@ -1,9 +1,9 @@
-package com.mile24.example.ogm.typeconversion;
+package com.mile24.example.neo4j.ogm.typeconversion;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.mile24.example.ogm.typeconversion.SecureStringPropertyConverter;
+import com.mile24.example.neo4j.ogm.typeconversion.SecureStringPropertyConverter;
 
 public class SecureStringPropetyConverterTest {
 

@@ -1,4 +1,4 @@
-package com.mile24.example.ogm.typeconversion;
+package com.mile24.example.neo4j.ogm.typeconversion;
 
 import org.jasypt.util.text.BasicTextEncryptor;
 import org.neo4j.ogm.typeconversion.AttributeConverter;

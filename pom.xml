@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mile24.example</groupId>
-	<artifactId>ogm-security</artifactId>
+	<artifactId>neo4j-ogm-secure-converter</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ogm-security</name>
+	<name>neo4j-ogm-security</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
